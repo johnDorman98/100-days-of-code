@@ -30,3 +30,20 @@ print("Your mission is to find the treasure.")
 # Write your code below this line 👇
 
 # This is a simple text based game using the story in the text file.
+# I am going to continue to work on this as times goes on however for now plan to lay out the important aspects.
+
+# Chapter 1 could begin with a introduction to the player stating their stats as follows:
+
+# - Health: 100
+# - Level: 1
+# - Experience Points: 0
+# - Strength: 5
+# - Intelligence: 5
+# - Agility: 5
+
+# As you progress through the dungeon and overcome challenges, you will earn experience points (XP) and have opportunities to level up, increasing your attributes and becoming stronger.
+
+# The game would need to start by the player either walking to the nearby dungeon they have heard of or going to the nearby town to seek help.
+
+# Main first choices - Walk to dungeon - Visit nearby town following the road - Make camp until night.
+
