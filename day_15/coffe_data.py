@@ -22,11 +22,19 @@ MENU = {
             "coffee": 24,
         },
         "cost": 3.0,
+    },
+    "hot chocolate": {
+        "ingredients": {
+            "water": 250,
+            "milk": 100,
+            "coffee": 24,
+        },
+        "cost": 3.0,
     }
 }
 
 starting_resources = {
-    "water": 300,
-    "milk": 200,
-    "coffee": 100,
+    "water": 3000,
+    "milk": 2000,
+    "coffee": 1000,
 }
