@@ -58,7 +58,7 @@ def get_coins_inserted(coins):
                 total_inserted_coins += coins[coin] * insert_coin_amount
                 print(total_inserted_coins)
                 break
-            except:
+            except TypeError:
                 print(
                     "Please enter the number of coins you inserted in a" 
                     f" number format, e.g '3' if three {coin:.2f} are"
